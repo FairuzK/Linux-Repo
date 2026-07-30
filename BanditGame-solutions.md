@@ -46,6 +46,10 @@ Identify and read file types
 ## Bandit Level 5-6
 ### Commands Used
 ``` bash
+ls
+cd inhere
+find . -type f -size 1033c ! excutable
+cat ./maybehere/.file2
 ```
 ### Lessons
-
+How to find and search files with specific requirements
