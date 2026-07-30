@@ -18,5 +18,11 @@ ls
 cat   cat ./--spaces\ in\ this\ filename--
 ```
 ### Lessons
-Making use of space characters, i.e., "\"
+Learning how to work with spaces in the file, i.e., "\\"
+
+## Bandit Level 2-3
+### Commands Used
+```bash
+
+```
 
